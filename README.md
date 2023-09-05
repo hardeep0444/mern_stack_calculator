@@ -1,4 +1,4 @@
-# mern_stack_calculator
+# react and nodeJs concepts
 Concepts learned->
 1. mongoDb connection
 2. nodeJs, Express
