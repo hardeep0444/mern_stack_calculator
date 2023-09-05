@@ -6,5 +6,6 @@ Concepts learned->
 4. useEffect Hook
 5. props drilling
 6. context Apis
-7. useContext
+7. useContext Hook
 8. stateLifting (passing data from child to parent)
+9. useReducer Hook
