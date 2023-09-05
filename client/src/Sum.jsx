@@ -54,6 +54,7 @@ const Sum = () => {
 
   return (
     <>
+      <h1>Calculator</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group my-1">
           <label htmlFor="numberA">Number a</label>
